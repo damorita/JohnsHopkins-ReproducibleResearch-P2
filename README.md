@@ -1,4 +1,3 @@
-# Reproducible_Research_P2
 
 Reproducible Research: Project 2 Storm Data Analysis
 ====================================
