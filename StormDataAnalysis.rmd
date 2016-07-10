@@ -20,7 +20,7 @@ https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2
  - **CROPDMGEXP:** Magnitude of Crop Damage (Thousands, Millions) USDs
 
  
-### Processing the Data
+### Data Processing
 Download the zip file and read into a dataframe
 
 ```{r warning = FALSE}
