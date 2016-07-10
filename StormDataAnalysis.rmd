@@ -76,6 +76,9 @@ barplot(HumanToll$Injuries, axis.lty = 1, names.arg = HumanToll$EventType,
         xlab = "Types of Events", ylab = "Injuries", 
         main = "Total Human Injuries for Each Type of Storm Event")
 ```
+![plot of plot1](./plots/plot1.png) 
+![plot of plot2](./plots/plot2.png)
+
 It can be determined that for both cases, when when measuring **fatality** rates and **injury** rates, **Tornados** cause the greatest damage to human casualties.
 Tornadoes have causes 5,633 total cases of fatalities and 91,346 cases of injuries.
 
@@ -100,6 +103,8 @@ barplot(damage$TotalDamage, axis.lty = 1, names.arg = damage$EventType,
         main = "Total Economic Cost for each Event Type")
 
 ```
+![plot of plot3](./plots/plot3.png)
+
 From the analysis above, it can be derived that although **Tornados** may cause the greates human casualties, **Floods** carry the gretest damage when considering economic consequences.
 From this data set, *Floods* have shown to have caused **$150,319,678** in damage.
 
